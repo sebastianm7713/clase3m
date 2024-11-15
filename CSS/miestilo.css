@@ -3,10 +3,13 @@ td, th, table {
 }
 td,th {
     padding: 10px;
+    border-radius: 10px;
 }
 table {
     background-color: gold ;
-    margin-top: 20px;
+    border-spacing: 10px;
+    text-align: center;
+    
 }
 div{
     background-color: rgb(14, 103, 141) ;
@@ -16,6 +19,12 @@ div{
 }
 #laura {
     background-color: forestgreen ;
+}
+#jaramillo {
+    background-color: forestgreen;
+}
+#leer {
+    background-color: forestgreen;
 }
 .juan{
     color:mediumblue;
